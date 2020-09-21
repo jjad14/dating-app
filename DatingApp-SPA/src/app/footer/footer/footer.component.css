@@ -1,0 +1,23 @@
+
+.container {
+  width: 100%;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.message {
+  align-self: center;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+p {
+  font-size: 14px;
+  color: white;
+}
